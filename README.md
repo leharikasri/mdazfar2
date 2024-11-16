@@ -2,7 +2,7 @@
 <!--- -- Custom Designed Banner ---------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-![Banner GitHub](https://i.ibb.co/HBKWbrP/azfar-github.jpg)
+![Banner GitHub]("https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">)
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Visitor Badge + Links ----------------------------------------------------------------------------------------------------------------------------- -->
@@ -28,7 +28,7 @@
  
 </p>
 
-<p align="center"> Meaning of My name is 𝐕𝐢𝐜𝐭𝐨𝐫𝐢𝐨𝐮𝐬. Yeah You are thinking Right I am 𝐀𝐳𝐟𝐚𝐫 𝐀𝐥𝐚𝐦. Intend to build a career with committed & dedicated people, who will help me to explore myself and understand my potential. Willing to work as a key player in challenging and creative environment with all my professional and technical skills.</p>
+<p align="center"> .</p>
 
 ### <p align="center">My Technical Skills</p>
 
